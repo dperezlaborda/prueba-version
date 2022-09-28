@@ -1,7 +1,7 @@
 import React from "react";
 
 const OtraPrueba = () => {
-  return <div>OtraPrueba</div>;
+  return <div>HOLA MUNDO</div>;
 };
 
 export default OtraPrueba;
